@@ -1,0 +1,26 @@
+{
+  "name": "Rosetta Miller",
+  "age": 63,
+  "address": {
+    "street": "Zajer Mill",
+    "city": "Tetelto",
+    "state": "GA",
+    "zip": "76823"
+  },
+  "contact": {
+    "phone": "(371) 326-7317",
+    "servicePhone": "800154752"
+  },
+  "birthday": "1982-01-22T12:11:39.000Z",
+  "ip": "26.66.199.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu kag fidvetdes nu costob odvaf feriowe mabiwlig iluuhi pofahoz potut da loke wem gahri mugob. Zoc lelov pigaefe akipuwel mepkeh hobop haaku ebazer caewe iraparci hocowi amuatikuj fafeda lezdan. Ow hucuc sakvo igufo wo behab wagdi haitif vepoz onewu ve huz. Cefebgu edote odiki ako awezade nupuzole wuzsa ara je uritalzow zinnir wil kedi nobenove.",
+    "bio": "Huta diwa fuilo fidcaj worben wejlit sujezken jutatu sak do ir et cef. Onmar jihtihnaj rar ul kim fignakef penone wah ibo no rip cu fimur puvac kamu. Anwetca paemop vudi honeh gup af adulo boha cule hoho hon cow hofuav awpawveh satofewa."
+  },
+  "apiKey": "b1ec7f4a4f7d9f6189e6c16519aa4551bc5709a83a0252c93d1427320c554c2c",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
