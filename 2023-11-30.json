@@ -1,0 +1,26 @@
+{
+  "name": "Mario Francis",
+  "age": 54,
+  "address": {
+    "street": "Jusgut Circle",
+    "city": "Umaliehe",
+    "state": "OK",
+    "zip": "26315"
+  },
+  "contact": {
+    "phone": "(405) 748-6858",
+    "servicePhone": "800564177"
+  },
+  "birthday": "1959-04-06T01:17:15.875Z",
+  "ip": "104.2.220.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka nah mapo wumdaplor jamdirmen civjim ebam rawahes temmiiki tanecu likan awamuwfah. Rolpecvil bisez ulahez tub ogpa cofjap olu ol few ozhi lahob zitzusi ji mep genfa artipeh luututi ikewemo. Esnebu koaz winodeg zutpe uglo jaawitu nogdoswi coccefwi wen ha fuja sic bo.",
+    "bio": "Velani apre peh wu pa luzasi nojude owewiew diwendes zoorcod lecicgiw sadmur cedi jow afo guc davepdob zinsusgi. Agacoz weraok asemipvi ekogo ogaseoj ci ali febmiw mo fejtuam gef remiw. Lidlichak jepoje sah joghivje baebueti jelrowja gucmuvdo zojooh vaer bunenve ahonu ho lueco. Jopki kasuwe ve cov puwel wiki mipet jibuz imbuge vubofdor geudvuw cuzak ommep urfofri."
+  },
+  "apiKey": "2d89dc6d2eb77504e5d50c1b6eb4d49d7e6a0a2e884f6e86435a78a46cc0e9b8",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
