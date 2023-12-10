@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Dennis",
+  "age": 48,
+  "address": {
+    "street": "Mico Loop",
+    "city": "Todiol",
+    "state": "AZ",
+    "zip": "81353"
+  },
+  "contact": {
+    "phone": "(289) 920-5716",
+    "servicePhone": "800387183"
+  },
+  "birthday": "1995-08-01T00:49:16.949Z",
+  "ip": "234.189.105.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Haod ciwa kifik uj laorsi ucotu mum pu suwujsu hohun moppunar det buveane mo. Ajaam otdoc jo tawtuzwij gouwsip ruivufaf gapu fiobi ki hokuzu hegmadoz uraduz laelara lok laalihu hakobdo. Cic go wuw atefa ractil mujleliz ehuwa wi akzev ifgavu ere mufebem elfojet tovlorom vasuz gug. Fommafo ve ej webwugzes cole rol zeztoc luretgug mochalu emsov ziboaki nufoh ojka etfa pivtakbej refmuwwat kiwus pagoz. Hirekag mo ufu puufci oczu wezbu id feopgu casob no si zet.",
+    "bio": "Bizhij ger cik fik sevi sov tov muksis tob ijecakmok watenar rifimi zebje finke em im. Ifires wozlebgig jan hebo jag adogi hok kiki maowni zuisoma hevjofesi ig curiwewu fovoke li od. Ufabiaw gohev ro oka fejo rufi kabu seramo ej lut moitwiv bubdowo. Ice anavo pisi wemzumup hawjof uwodok nid gibgar ehifrak ge kaz bahruw soroppeg. Mubkoh sizgek pezluni juscal inune zake figudwa zonaumi si wis tivije ninagcug bejoh ahideemi tozis me."
+  },
+  "apiKey": "4aaa4e0a57642d8c56dd70022b60c87afc76cea00e95b5161fa5eb5d95e3fdb9",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
