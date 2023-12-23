@@ -1,0 +1,26 @@
+{
+  "name": "James Rose",
+  "age": 18,
+  "address": {
+    "street": "Masiw Heights",
+    "city": "Otruzu",
+    "state": "OK",
+    "zip": "12651"
+  },
+  "contact": {
+    "phone": "(310) 533-9421",
+    "servicePhone": "800858119"
+  },
+  "birthday": "1960-09-25T22:17:54.482Z",
+  "ip": "7.74.162.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Vekvavro uda orogem cit mizrij imdis fuzivbiw jirupu ewenuwap ewe na timfaf giliw uftipac. Hikhagwu ogo gi etep lemenli ca tiho luwmoh kaegolap orafid mu komum ufu beifco. Wucfig suje do egopi buvof huh gonudif ka ef pufze gum voab vil heduv sovadolap lan.",
+    "bio": "Modnumu pud fihmedofi wokhor migaj uwcipri tujebap dormesno ugi min derjaune ob pin cijpagip. Molgu akamu sa ke pabjep opnop boninkot ave ji ni ulosannig ig emrad. Ufeboppev nuhdiuhu wajfoar ot nosnu nunawra umgem zatve buud uj kefumaj ho goc japla haz we cuna. Fok wumado zowwabpan gi ho sozuwfu hukre ugdihup dak itu bebeke ri sad zuwwuc va mat. Gig hicliw nesfa un wo rir es dekikur dekdu sapsahu het hubgew vupso."
+  },
+  "apiKey": "b3384235b1f3a3617bfc2f328739cb17caad3f7afab6f29ba9494a301d3daa07",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
