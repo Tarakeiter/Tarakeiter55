@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Rodgers",
+  "age": 38,
+  "address": {
+    "street": "Pehzar Place",
+    "city": "Towlujze",
+    "state": "WY",
+    "zip": "65357"
+  },
+  "contact": {
+    "phone": "(702) 843-2744",
+    "servicePhone": "800623222"
+  },
+  "birthday": "1974-10-13T06:04:10.669Z",
+  "ip": "194.98.90.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Ban ok to lojno dolil sumjat pihzupat hofmiji avuawoif we aba huv ji jol uciel behom mejod agetina. Loilo ropuan sos da ti ben zije fog fec veavieci jiezo ce epe. Facokit toduvuahu jeb nuwrerda uza wonle nef nic hok ug di pip ok obluhuni woponeni.",
+    "bio": "Buwhaik vu ikcefe cajkop askasuga vud jidejig cebod bopofzi jijaku sechu ipvebjuf houme gi miwjim jezebap. Ju se ho il enuobozul cuvohu muwleh izpene wuh edcija tose ewemud caffa. Dokuuf bo jeiboub neivu viiwewok kumisup gipwaro wonkawov few aro hem zonja arsad. Lam orpu wel dupso mo ipiranza omawo kawpoposo seg noruivo hiscuiw imjek jaspija. Wuobo gaglejev ziwdet hibiah sikici peonere pun jila zumcajal zefak somilwag lasiged ve kiw vanfecmeg tob wu. Mag sikatrep hur humo pu decaz babhi supleafe pot kewo sihutpos ilabevor wuvew gu kowajoim bulazci zug."
+  },
+  "apiKey": "c122445d00fa099b171d68bf015f674bce8f03c016ccb216c7d12e92e768cde4",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
