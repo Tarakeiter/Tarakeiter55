@@ -1,0 +1,26 @@
+{
+  "name": "Violet Simpson",
+  "age": 60,
+  "address": {
+    "street": "Ojbo Road",
+    "city": "Wopeame",
+    "state": "UT",
+    "zip": "50031"
+  },
+  "contact": {
+    "phone": "(771) 258-6716",
+    "servicePhone": "800328817"
+  },
+  "birthday": "1990-03-08T08:44:39.939Z",
+  "ip": "246.179.118.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Jije co bi mihri baju lu miwjouna tib nutkel lulfo zusin accafgo kagmu. Kop gocein guuwhuv uzdot lehkagmab tis fiteki awzivli gafuke lum himloljo fu. Dobenfu cok veg pore jij ecruv ojecevkam zo em zi mobkil epo ses.",
+    "bio": "Wahipgu zef kewubib izmatudo obul vendopkil zaku eziub rahezda foc fis fomi ak copotwa mi ke. Ule bo sihow zodvip ka vulefina duzaj noh ivuhap bedo je tuj. Oluzu kurubo emgiku gog umrafej ame ziveroos goher pitigu jilva zaitaci umdujib rustob ehitaga gen hinikpuj lo imlil. Cuc joh id ipa dedoad fib soudazoc fuiz zuwizjit jako jelwo uh zuet panberen bijre. Bovdief facru gofkun hak zufu hiesi lid bataj loud ikejoczer mo mewko se azehokap welinez."
+  },
+  "apiKey": "b8a3c056b6c5a16244a4901f85504402200f593f89934358fd139d52cf4609c2",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
