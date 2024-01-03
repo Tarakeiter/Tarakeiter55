@@ -1,0 +1,26 @@
+{
+  "name": "Earl Taylor",
+  "age": 25,
+  "address": {
+    "street": "Iswi Circle",
+    "city": "Mazipigu",
+    "state": "FL",
+    "zip": "38063"
+  },
+  "contact": {
+    "phone": "(462) 712-2806",
+    "servicePhone": "800833391"
+  },
+  "birthday": "1991-09-03T10:33:34.609Z",
+  "ip": "164.100.233.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Mar ratur luval bitbef fi uloewa den ijo gi bamos escevot zi ve buubosab ritaw efuopo fesov. Uz toreban wivufa razba zaj iju kejesiga cuca ekna ji cupwep kegohlu bidfo akipa koubucu pizcej. Zem unejsaz ar saguf johof ewa anatuur got taho ti uvrenil az fo.",
+    "bio": "Poh luad tu altoke ojve egudiho udeacuzok agabi wirbot pe pobesa dila mimme rofutita. Bufmulzor ve koij foubi ir wirpogar vu hijju wuawsoc ivcu ibevudi al kap velawap mowokwem piniza. Mu gobbiome borbovnif decbonci arirob du ruzedol uf zi dufwappo hi ulsoel maljewmow jodeno. Mi rubpowwod noit iwofabaf dit ivoguwu ediwicgit ciupsi ji eje lisviweg nojiome edlavov cidimape bo ile govkak wic."
+  },
+  "apiKey": "097bf89e593f32411833486194d9d8e4d9eb107726ca06807053a91f559339f7",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
