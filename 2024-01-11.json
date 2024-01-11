@@ -1,0 +1,26 @@
+{
+  "name": "Austin Mathis",
+  "age": 65,
+  "address": {
+    "street": "Okusat Junction",
+    "city": "Zaenega",
+    "state": "NY",
+    "zip": "73271"
+  },
+  "contact": {
+    "phone": "(467) 458-2024",
+    "servicePhone": "800825775"
+  },
+  "birthday": "1979-05-30T20:56:58.226Z",
+  "ip": "117.13.30.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi ezus jup jo usatuz bogiv lecme mij vizib kot pi orahaz galid. Atawu kitwiwve fuimrov pu hejbe boto dice rautela fif no es jodnetbat. Diik vavezoj paiwe jemode ihe ot tal deihe zim gu ezife veenefu. Ni oznuvwed idwe uli guh kuvjaoni suzuga cidla za de sukfu neag tofiuk.",
+    "bio": "Izjat kuako of kevawwe cubdaaz cun wupza hoboeno eleuli kupmafru fectilo ruwot. Tisaw jow ji taloipa ris otiepdu pinfa wup no paz torear nurgi supkajoj ena numgibnik eztoc. Cusdu bov ku ho bugas mapmaafu esle pi rof emiova pu gesa wejbuz nar ifi dot. Fada mire udidona jogdutsuh ugi walune weko po fijir avse hugohoc mubav."
+  },
+  "apiKey": "7c5fd89d693aa12d333ec338bc42197ece77425cd45003aabb8b60c6eaaf6eca",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
