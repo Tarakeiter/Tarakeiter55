@@ -1,0 +1,26 @@
+{
+  "name": "Michael Fuller",
+  "age": 42,
+  "address": {
+    "street": "Gopoj Street",
+    "city": "Urtano",
+    "state": "OR",
+    "zip": "14833"
+  },
+  "contact": {
+    "phone": "(248) 911-1473",
+    "servicePhone": "800166567"
+  },
+  "birthday": "1981-08-29T07:59:37.371Z",
+  "ip": "175.158.28.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Wazlo sijgabum iwcis inilaklan mu kiw upnatu zuhhe esacebuh etoucru viegi gizig ken telleh. Peb dum zoic tecliwvof ahiajgap hojeot hikbakre avpebo he pasbuzila cu jic diuggu zujuug ij. Wortihog upa issu mamugraz piwogosu kuz en kafegemi ema tugebo ancazun ik jofa puzbuz. Etri tousa vicuj ototuna he duduvful tem ritnumike ehozjeb wegartin epegehzir mef jow coofa iknuge fevera.",
+    "bio": "Ro perzoma gi ucwu pec zeri ce wavulki kez pupzajo gi gaw na vokcu vamamem. Wiku cunsaf wubbu ehain kab buw rak wufocot kunu nivi ejiowe val dugcakig robata ez. Wom hi ilicuk hifrik nu ur kugagliw ura tovpotca lugot wafadfan nojarpe atsi baatuibo zophajda kunri. Gecir uloej secgal ebekoh ned tupobhes jouhe lof veluze oz lunewu esopepbij ivohehew ufilo rirjivam okifovi vek ku. Do rofvu gubdarcu geshefsud dorkuzaz eh kos wugnaz cusnufe uruduzu nifcan elpubjuw."
+  },
+  "apiKey": "de86792fbf106fb08366a595d8106b62c56b61853b861402b77cff45e4fbf165",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
