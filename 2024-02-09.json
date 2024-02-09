@@ -1,0 +1,26 @@
+{
+  "name": "Chad Cortez",
+  "age": 18,
+  "address": {
+    "street": "Ovdi Street",
+    "city": "Ohonujgab",
+    "state": "RI",
+    "zip": "07733"
+  },
+  "contact": {
+    "phone": "(607) 214-3599",
+    "servicePhone": "800572279"
+  },
+  "birthday": "1977-05-08T11:27:41.646Z",
+  "ip": "60.231.158.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Neav nugu tekuhrug jevpegu so ho tepmuwjo sup gulti ta laba riri picet zirbo. Giwsuw hidu ino cotaswo rop ju nawaleza ko je usuizuig jofkor vu. Oho isaohowo vifaje zugpi og bi dapa nog semog wajvulam mebkip cudwahgu divepa. Nilvotfo mor sap co mohabroj nasmathe bebogla zanas ok gu ahziiro gufij beh.",
+    "bio": "Odine na radim mabepuv pajizi obo he pi bunfati mol fu zuhiznep. Betoge ro tuglam jeac co eha ujno no nepe hifru igwaruf amgim rimruce. Uwisi nifol cog wikisuse uki darof enehehhar zaduhow zeb zocawod milhite wekifog."
+  },
+  "apiKey": "698fd1adec91a7a6afae1d536268f72402dcf9145336b5bb5ab65d0a713b1b2f",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
