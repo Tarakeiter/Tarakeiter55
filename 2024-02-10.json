@@ -1,0 +1,26 @@
+{
+  "name": "Emily Townsend",
+  "age": 21,
+  "address": {
+    "street": "Mouka Glen",
+    "city": "Hiholi",
+    "state": "AL",
+    "zip": "65681"
+  },
+  "contact": {
+    "phone": "(972) 889-5952",
+    "servicePhone": "800117885"
+  },
+  "birthday": "1968-05-19T11:45:22.807Z",
+  "ip": "174.223.23.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Jimbezhe zuweebu watepu ofarise kuzuik afo heleko ejiori ve gi kefwig efedun occu unonotlod. Isdu luv tem begruv luhe bafis luzor jov gifam cuce ociniw oplam. Uwa seecdu mig ictotor efumomige rik caba rezatun er sojfucupu okusvuw zineuz wiso boc. Nife nacbalup vacik iz ejuunhaj difa ma loggihcic fo tipe nobam celew hocilet.",
+    "bio": "Vadosic odkuluw zod wo otru girvanzew pikaccu faw nor jeap agra hehok. Po te vowkow livfet ragsisci buho tilo sog odi wiesro biapo rewukisi ek ji kelzessu zomikilov gozemipo rinejcu. Bujrokaj vocusum uho fugile zesmijulo lok dijeve at ec hef po ebfekha guhal ribec cunid. Zufvas vahik unvuw ibuwe baebcab veksu zoru ew cabuj sedwa ji diihku unu be."
+  },
+  "apiKey": "e8fd0beb0d22b285307e99dd75d23e3b979a3f295d4e87d011bf531399d1aa9a",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
