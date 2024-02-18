@@ -1,0 +1,26 @@
+{
+  "name": "Tony Valdez",
+  "age": 18,
+  "address": {
+    "street": "Sallov Parkway",
+    "city": "Nemwabig",
+    "state": "LA",
+    "zip": "95667"
+  },
+  "contact": {
+    "phone": "(233) 231-4137",
+    "servicePhone": "800113325"
+  },
+  "birthday": "1967-06-05T12:00:01.884Z",
+  "ip": "117.37.236.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Imi kavifep zuva corbehnoj sulkum gimumgan bolajaj dozav fuh momdu cur sugaderi. Ureevuj fut hun sijlo zez duki cehluh cuh vomu wis ru ridbopnaw ko tam. Rumjalfa zir recevha ifba kokzel pe do su zuwva jozdohnus fo mo delpali iv kikapma pebapeh gees. Colnekzaf oz gip fatiw hid ithi vihvuk walpucom le honukew ubi mudrezra lu sac fe aza otodo moeju. Heki zuguplis nolic no beafa isabawes gan dihku go uc kazpi ku naos kiltaivu.",
+    "bio": "Ek ewogaj hiwe lat cop bup gi uwteal tupno banohez wi vi fenaofe lafap adomibes. Ceen reflokfer jid pu olouhu ubhu lov cogpo eg rat hati fac vaf ge pib ognif akiumake. No ipaginto komujhi kow gejde wip wim aveka res oditel ure lesec danlajiw."
+  },
+  "apiKey": "98ec16e2f831ee4d6d72f1a366ae9a848c4fad1729013110965bec81813441b6",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
