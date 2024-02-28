@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Santos",
+  "age": 34,
+  "address": {
+    "street": "Lore Pass",
+    "city": "Ewiakwon",
+    "state": "HI",
+    "zip": "10726"
+  },
+  "contact": {
+    "phone": "(327) 965-4740",
+    "servicePhone": "800315313"
+  },
+  "birthday": "1963-01-17T07:03:03.899Z",
+  "ip": "205.212.98.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Fardin weh mor okkuh gojwuod irivuzvup capoten husja miitlu vielwe ciha uvbaf ewelucok goj umacum. Pantuc mi jimlethad dekaz ni cizigak ga vissap eg ihucewduh zomsalok gid nicemol gidani ol. Gon fisaczeb zotre memni voadda rev elo powlaso pofka sireem vawuin fakorka.",
+    "bio": "Non nis roihsu jo to uj jejpef puco rubgizef avu lez ofiwi va lehsi dofdubup. Wenrag coj ifzengi mi ed dusbono segsasov od wueno cugwa cegluj itoah aruw duksa ucadoin feuj. Og jekel hozaszop sunemah tahturza naztap vezicsop je afzuud vaznob duk cimodu wanub ur ubgoguw feovalug jubrevbif. Kuigso tet hakiani vaduwahe bolzugu su viurise me wuwumo uci hadujfe to ge hapuwuer ivdumsod."
+  },
+  "apiKey": "bb48b111e0ed053b8538eb77708a2dfe5d2ce992d3948a35798d68adc54c321f",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
