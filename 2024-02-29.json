@@ -1,0 +1,26 @@
+{
+  "name": "Jerome McDonald",
+  "age": 51,
+  "address": {
+    "street": "Gumdu Drive",
+    "city": "Seilegom",
+    "state": "SD",
+    "zip": "36962"
+  },
+  "contact": {
+    "phone": "(232) 613-3613",
+    "servicePhone": "800242966"
+  },
+  "birthday": "1996-09-29T11:23:26.443Z",
+  "ip": "33.240.213.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Enozubi subwol zufsi dimmib nod reoture tu wezki gokow jidaza etru ijiruvgi cucfi. Pogwo puv pujveh rudihiw zu nuzva oze de pa ezeref jumdi moci mi nasas alojo pa zokim ivi. Mos ot relohzog de gemec muf lurcofi honu nerfogfek lu amapema uzluz aliivo rin veadbiz honubav. Ep lebzuvu lu kovutgi uha wulvep dof pimicu mifma mitbagab hiwete peploewe bihgaec fo mul neos. Tudsac ficwebo ami li kul adja pisalzih joksilru zeha reuca wuweot dol bavkokwik mutiim. Lakome hoz fuzasez wezjot rohke nej atu imana et dozulma hut mowtegib.",
+    "bio": "Mego lovagop mi pumekajo pagom fuz opeava si lo senetbed sojomoj kehficik. Kepdisok wimcaw oralovgi teleit facjed beupvob buvi ciid wecu me oli ne aba roc fofimda reidejeg mito. Co hawbiki jej cuf powkal gedbokige ek kidfuriki tesobal fobzike lo ferjazwog ecpup wen zozlorfez kus uc dilparkos."
+  },
+  "apiKey": "e1abf8829c78947af19ae4fd12d08763f63b0be50178ba20795767c9198b1df7",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
