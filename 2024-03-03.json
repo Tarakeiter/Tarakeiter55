@@ -1,0 +1,26 @@
+{
+  "name": "Henry Benson",
+  "age": 24,
+  "address": {
+    "street": "Acapen Street",
+    "city": "Taruwtak",
+    "state": "VT",
+    "zip": "13233"
+  },
+  "contact": {
+    "phone": "(311) 806-8688",
+    "servicePhone": "800363264"
+  },
+  "birthday": "1987-11-10T17:43:43.968Z",
+  "ip": "202.218.34.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Holmen zakkuhu fiejdom dikbuhnu we soksopusa begoh juski acinut had ava keweman zawofsan ta. Wezsuzzam acaor ge toro so acufunem ami pocav owmus wupometus ufucewoc wakuh tacelhu. Jihmuge agru cajfokih sitarzir jotoh vajeve utojuctij kihelu fo daimoj tepneak ja. Cudiwkuz umoneak tiejum zijtisgit duvolrim lidotfu vipoze viwep oha hekosnog lud ekigonoz lauhirij berbo mabugfuw giw zimca. Meeguja hecned ka ni pakliczov lon no usa ka en depcu to per owesu nurwumsow bindob ji. Fefawo so bowrewvi jipur ehjedob nas zim wuiga afzuf uniranut cajo mef la opa nunre opwud.",
+    "bio": "Uzojo nidepiir gu tizo nazofnus nucebgu lahuh cocule rogu fi ra celevba gatepu. Hadeh todogej mem upkeecu facpi kiv fahtid kojevad ernomu pepu za hazju. Ekohusoz fi como fiwjohpos ab re nuso navginma vugkehu irjuwte ohuwicge gow jascuzfa iboucoir votuh ko supe. Bafwuf omeve ivimeta com jinkoz punsirciw eza rodig ebawac ufuecu heojo pakgi."
+  },
+  "apiKey": "7f195167f6b09b070fc52dc24d367f79a29ae7b7efe7634ecd25599172153f53",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
