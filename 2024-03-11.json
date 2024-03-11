@@ -1,0 +1,26 @@
+{
+  "name": "Lois Gibson",
+  "age": 51,
+  "address": {
+    "street": "Isoju Street",
+    "city": "Cikhofe",
+    "state": "MD",
+    "zip": "69988"
+  },
+  "contact": {
+    "phone": "(656) 313-4765",
+    "servicePhone": "800776638"
+  },
+  "birthday": "1985-09-30T17:25:00.265Z",
+  "ip": "94.33.89.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Wice ha uvucivnat masicci dovuv utzog vonboiku zok aguho tu edpujjid ciwjon zisuvoh ozvosiz. Luwud ib duwkac li azic fi cos ozmavlu mazca pemeaw bu meben puokiw. Ces segavgu goborlo sigumwul nogaczes fuwo idu sunsuj sicejliw uzeji duokoos huwojhim pehbo urutimnu bitasav cufu. Esheh bom fidlu ikalem tari wemi hac ga momobfug upufim ejwemuj alu.",
+    "bio": "Dianatel vib haolu jefsaf sa rip wuemi uz bopu ne atu agopcok pubalnoh leh nuwipfez kej figutvac. Ijga robija ca ehsaoji rokgiwe biim cesujjul nesetmi kif jetjiik limgok rezmajuz lad si lahiho. Bomsidej men kil jih dew wom ripmumal puozu nu row zin mi sifnuv kik od ebetedo. Eskika al ijilih ra ahuuzo pesocu kipumubuc tumac tum sub bon aca ludeb sezwe wukwi teztuwas omkedus rel."
+  },
+  "apiKey": "5a8f123ac20e06df7f63faf0ae9638bd7709a4e3cedb7c1dd3d0248977678901",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
