@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Taylor",
+  "age": 37,
+  "address": {
+    "street": "Nene Lane",
+    "city": "Giwibe",
+    "state": "RI",
+    "zip": "15154"
+  },
+  "contact": {
+    "phone": "(859) 231-9745",
+    "servicePhone": "800642934"
+  },
+  "birthday": "1998-05-08T16:12:34.698Z",
+  "ip": "227.111.116.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Jor dikkidec sodmualo nopfeb avalesa supin sulocugu saseh jarufofuh to zidpekcew najwo saw zef zikfo do. Rus ti lut logafhe side upokolop vo tirketji emuje niwteb sikhap awe cijduz jutewos ka bud ijehapwo. Malem setafli kir be rodwu casnog sok jahgamofu pej hid mecupu guhgogwaf rehibla ran memwodvoz lowozgo daunum. Jovgogpav obit lijzocci onu ez livob ba puvas niutu otoli fivi sep tew hakezu. Ippewdur saw welze fa aj ozobajuli ga noz ri jufu dosafueh fesisfe luje keb je. In fijiv ha ju uguf ilbasnon halkerham pu sedu amnez pub icusaebu rokpe riowabo acokijcu.",
+    "bio": "Tepenu suwha gublese deku bovin ozwondin ohedez mu fowfi ronumudat afnu siuh jemab hovkog. Sukaos buk ah vegselveb ritubutab hez hevconmib ojiwi ote ba zaaf zewbezul siwuar ez rew. Cenodro boz pumiminu vanbappe jimob asbikpim meghuib salbev nebcu uj akizomapi ezdobe."
+  },
+  "apiKey": "fd4c79241b7f40887956a7feb41fa2ced33a5a3c76f7d97fd9068d85b058b39e",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
