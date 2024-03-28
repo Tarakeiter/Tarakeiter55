@@ -1,0 +1,26 @@
+{
+  "name": "Louise Myers",
+  "age": 26,
+  "address": {
+    "street": "Cuolo Point",
+    "city": "Selvelegu",
+    "state": "AL",
+    "zip": "00578"
+  },
+  "contact": {
+    "phone": "(246) 796-3862",
+    "servicePhone": "800323384"
+  },
+  "birthday": "1963-04-13T04:44:01.933Z",
+  "ip": "226.83.102.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju uzanoz ral din varwadu jaszozba bad pablaino kirvu uci aca lo nugji tibfok nejafebi tohgop. Opmam takemiwab jan icica uklebap tad mefkifal racenhad voh jakravab melon ticedbuc imfetve du pe fun cuzu. Hebufvu jalarci fe jawo ok jocuh jikako ujzip cauw nafbave wuspezim fok letu es. Vu jauju si ik vubehi nowi wuk zaggud ucvagaj fubeve mulmevu tunil.",
+    "bio": "Viwuzi tadimup gat pofi huci og cin ciap gavan bu pufi iko namripve. Uhvi weju bi ip na tetik la tebka ij gopazo ju nufa lufog eta ulefepag pefza. Mu lah pofmepgi etki heposo jik bo ca pifolsu dajga gul ec nod saha lis bad."
+  },
+  "apiKey": "fb5013dbec0756bf0f2f27f9ec060be1a61b7893bff51551fcae31b5d18d6b4b",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
