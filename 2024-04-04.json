@@ -1,0 +1,26 @@
+{
+  "name": "Don Williams",
+  "age": 48,
+  "address": {
+    "street": "Zezit Mill",
+    "city": "Dubupzum",
+    "state": "NY",
+    "zip": "20763"
+  },
+  "contact": {
+    "phone": "(250) 793-9331",
+    "servicePhone": "800456271"
+  },
+  "birthday": "1961-12-24T07:50:12.248Z",
+  "ip": "145.205.148.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Aronefwo moati mez jabri bocehuke ugsah ke al jutgere vucden nu vap sepiboha fiv ip. Perpanwam tuciwuk ku nob cievotoc cer jolce on uniwaiju zamizte me mordak ekpole ruud viluga bafabna fizmause. Rikirzoz rifa vuvjoc vofmotej fi cagwajnih tasubi ujhuin wu sukrapgu te po.",
+    "bio": "Libru cow satbem pazopza nebzokino opa rakwugel udihip gideho bornukuv mehafu tukodev faf. Tub rusaim nimisi vovum bofudeze agunacme geiz zurrep evibepje tajozinu limiguv ji cojpat. Unositga ruvhag muka ci uwusa ka rihbuivu pu deh tifme poh cefenco vatcewfu mudgab inace mipet sucpumgi pokji."
+  },
+  "apiKey": "7cc0bed8f3dd088dbb1c352640c70e84733622f5c9ea7ca5e13bf55a0aad233f",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
