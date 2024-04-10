@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Burton",
+  "age": 46,
+  "address": {
+    "street": "Gidi Heights",
+    "city": "Awibuthu",
+    "state": "MI",
+    "zip": "23747"
+  },
+  "contact": {
+    "phone": "(502) 361-2110",
+    "servicePhone": "800561645"
+  },
+  "birthday": "1999-06-04T00:26:45.588Z",
+  "ip": "133.38.2.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejikob timoj caihgid pifmoj eg ikuveho bep beb vimho onpake hu hoviho tuboiw ga lotuval maznugke kutkete. Rud kofitow kozeshuf zekime muwze hicvowov vezpazdit goelu lad zawtuw uso ibanev kebutpo ubpaum abanezis iricin. Doajgan rah tomak ziihewo gikibaj oza kopre cu awmuuw bi ofeso wagu. Azlo pef ke ho wo po fo puotiv suke zil cuvu lotco.",
+    "bio": "Uvecaj fizgu kidmorab etoluec daomogoc neknow zegucu fu bejmo zig furozi zomvumhad hokpa rigit ze. Efe vavju bazhigec ce enuzibu momu gut efeku zigurkih tapjabam no dara. Bewiku eh femevese cilkot dod racic hepipnup jaaf leuvi tej ipzut kufere hezsir gefteckof."
+  },
+  "apiKey": "21993c052223f33ede80ed9ab4b264cb35121c356448cb22f2db6f5d04b58e59",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
