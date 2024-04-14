@@ -1,0 +1,26 @@
+{
+  "name": "Gussie Bush",
+  "age": 25,
+  "address": {
+    "street": "Rili Extension",
+    "city": "Dinfiwgaj",
+    "state": "CO",
+    "zip": "65901"
+  },
+  "contact": {
+    "phone": "(681) 894-9050",
+    "servicePhone": "800358363"
+  },
+  "birthday": "1987-06-19T04:19:53.100Z",
+  "ip": "45.62.9.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Muap zet tet lojgod vun nef anuto noc etcaz ralpapah la nadipag. Wa bunav fofesaku si lam vu to riewon dew zalece hu nid jojna zu dakafla. Vo su wowuh laere mool cezag wu ga funsiti hewkosez kas wek dijomi cuok fim.",
+    "bio": "Cetkudub cube bu osekadta ecauforur jifrab bohuw je boptu telif zu asavad zukkoljim do sipfu. Adkol sof bopunap gusovbu om puf mid pelom nakho hase wog al katorwe ze pafetu hezmolna. Ho ikagol ulwe ejerane helafa su lu gim fiow adhoda wutluca sedkafev ningarve mu gasi no owbot buw. Horin kegab gilcov gozluhu deh hotatmi kicosu elzaj vofe givagev kumewzuv cotirlu anubu tum zusli goz jovud livji."
+  },
+  "apiKey": "e16a9ce66255402f09f0764dba692c8c06e84ba1e8c87b4242f73834d5572b2e",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
