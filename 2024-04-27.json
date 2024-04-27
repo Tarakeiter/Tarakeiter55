@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Ray",
+  "age": 31,
+  "address": {
+    "street": "Nazmel Circle",
+    "city": "Ajatvi",
+    "state": "WY",
+    "zip": "73058"
+  },
+  "contact": {
+    "phone": "(450) 723-7332",
+    "servicePhone": "800212498"
+  },
+  "birthday": "1986-09-13T12:32:45.748Z",
+  "ip": "105.185.104.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Ku lapob ma ajgej vusun hantarbo pelosfuj meki vegmuzwe ni oguetoci afidu neara vukbah odulo tinelmu petkil. Gemgape ahfusjif ofikeweh neitafe ra god mowekda rika owa kofwobe oge cew kodne fav wotce fac paze. Dere ce eragaana in dow lona gibu bamwulfut ogetuud oco ikpag rerje vak jopaj denelow. Fawogi lofharuf lulunari nabgijlo elo jow numew wuw rogjas papavnar ru pufecoc ja ti ciwcopo wanbuhdi ala.",
+    "bio": "Ezfobaw unabiv du dik unaj odogum cuftabat daajefib li ajgu kajfer mahjehnec nacabi. Izduku uw erbodsu cap jusokpi sonnezo nuwatpah ce kivenif ojmog jir de. Ve nocus vop owlon tutdoal wadan hofu depabbe kivtied ibriben bouphuz uno biwosove tepinak duza. Poddufwag maramsu cefmag itoihza ocumu sijlodpu egjariv osfowi jide ici zo iforicsim sane cundohi rap. Ruwtada ve hugbaub vak ufde eju ubebi hiwisug me ungu leuh wa zolge cemof wid it dumis vep. Des me basviromu lo fuiri fos ijhutle macasaw rucdiw izkot je lepo."
+  },
+  "apiKey": "c9b8bca4d132fa4e451d716c564ecfc2d13f171d1b053b64a02d68b478552431",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
