@@ -1,0 +1,26 @@
+{
+  "name": "Anne Reid",
+  "age": 43,
+  "address": {
+    "street": "Busso Parkway",
+    "city": "Nendommu",
+    "state": "NY",
+    "zip": "52910"
+  },
+  "contact": {
+    "phone": "(454) 903-1470",
+    "servicePhone": "800745932"
+  },
+  "birthday": "1994-12-28T07:26:00.904Z",
+  "ip": "162.182.141.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Daseddak dutgalma senori kic diw cosan ane rul homji eb elazusa up. Ena uwoduede nez edidej cesahili ev zugnanrop zan ibilolup ja eduvalve hobhu rebefju fe togdoscu iducirev nutemarak. Hehsappa wouk bahu gizsopuw pu co ecfu ebuhaus picun tiwisdu wo nobtag ri tauwzo da evadamed melevak. Hooj me cifpi sewgunad povawa vesice fu cubgoase luh cipi topuw la ca iwuulo isouha. Duc kuotuma izekigo wohnutuz zerhacec jolaj mo sov num pamumwuz he cuz jibi junwupecu zenmi mowbokafo awheksa.",
+    "bio": "Bod hi ce tup pedopmi ruila riki bogoge filka ihi ojo tapoloma ofuva weehcum wi mofebe. Hokfiski rag edemuru ret do dafas vuzuda jatnu gume fawole nalba mofod upibol nawi rielaat sisnu hohu ade. Icsepu gog nagfulac suop afopafna vo hevpifna jukleva safji deta ac uza vevufme arpofoc. Ut om esje foprow po belatwom iki gi jocdu ahiuw mabruw ge. Gih sa huri pigkez afo wah mimap cisocfu uzu zejedis me ulka uha ne vicaflac pep zerothu. Zuwti guzzes papighup gikibdem cievho wupdac najfoger vasgi ej itme hu zebjugbil agozegro su reg ismed iwiga da. Zubioh udfer pa sitguw ocojeisi ed dimbag dinwotosu milhok jodair nukug bofog fu kilgomi jubbin emocuvnag wezcumdi mitin."
+  },
+  "apiKey": "68ac6e93ca4bf0e8bd7d14faae4c97735d5065a8057ea2d187e5880747bd2de9",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
